@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../eurorack/MFOS_VCO/mfos_vco.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 9/11/15 12:49 AM)
+(This file generated 9/15/15 11:28 PM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 15000.0000)
@@ -31,26 +31,23 @@ G00 X0.0000  Y0.0000
 M03
 G04 P0.000000
 G00 Z0.0500  
-G00 X-0.2200 Y1.3500  
+G00 X-0.0100 Y-0.0200 
 G01 Z-0.0630 F5     
-G01 X-0.0300 Y1.5500  F10    
-G01 X-0.0300 Y2.6800  
-G01 X-0.4500 Y3.1900  
-G01 X-0.4600 Y3.1900  
+G01 X-0.0100 Y1.9900  F10    
+G01 X-0.2600 Y2.2400  
+G01 X-0.8100 Y2.2400  
+G01 X-1.0500 Y2.4800  
+G01 X-2.4500 Y2.4800  
+G01 X-2.7600 Y2.1700  
+G01 X-3.6000 Y2.1700  
+G01 X-3.9700 Y1.8000  
+G01 X-3.9700 Y0.4400  
+G01 X-3.5000 Y-0.0300 
+G01 X-0.0300 Y-0.0300 
 G00 Z0.0500  
-G00 X-0.4600 Y3.2000  
+G00 X-0.0200 Y-0.0300 
 G01 Z-0.0630 F5     
-G01 X-0.4700 Y3.2100  F10    
-G01 X-3.9000 Y3.2100  
-G01 X-3.9000 Y2.3000  
-G01 X-3.7900 Y2.1900  
-G01 X-3.7900 Y1.0300  
-G01 X-3.6600 Y0.9300  
-G01 X-2.0800 Y0.9300  
-G01 X-1.7900 Y1.2600  
-G01 X-1.2700 Y1.2600  
-G01 X-1.1900 Y1.3300  
-G01 X-0.2200 Y1.3500  
+G01 X-0.0100 Y-0.0200 F10    
 G00 Z1.0000  
 M05
 M02
