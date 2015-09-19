@@ -15513,7 +15513,7 @@ at 27/07/2012 14:48:47</description>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
 <part name="P-6" library="supply1" deviceset="-12V" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="CV1" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
+<part name="CV1" library="erthenvar" deviceset="AUDIO-JACK" device="" value="AUDIO-JACK"/>
 <part name="LINEAR" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="SYNC" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>

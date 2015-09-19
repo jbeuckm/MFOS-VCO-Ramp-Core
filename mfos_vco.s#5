@@ -15473,7 +15473,7 @@ at 27/07/2012 14:48:47</description>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C1" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
 <part name="TEMPCO" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
-<part name="R14" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
+<part name="R14" library="pot" deviceset="TRIM_US-" device="B64Y" value="20k"/>
 <part name="R15" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
 <part name="C2" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>

@@ -15535,6 +15535,7 @@ at 27/07/2012 14:48:47</description>
 <part name="R31" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="R32" library="rcl" deviceset="R-US_" device="0207/7" value="1k"/>
 <part name="RAMP" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
+<part name="GND17" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -15639,6 +15640,7 @@ at 27/07/2012 14:48:47</description>
 <instance part="R31" gate="G$1" x="233.68" y="116.84"/>
 <instance part="R32" gate="G$1" x="251.46" y="132.08"/>
 <instance part="RAMP" gate="G$1" x="269.24" y="127" rot="R180"/>
+<instance part="GND17" gate="1" x="261.62" y="121.92"/>
 </instances>
 <busses>
 </busses>
@@ -15888,6 +15890,10 @@ at 27/07/2012 14:48:47</description>
 <pinref part="IC3" gate="B" pin="+IN"/>
 <pinref part="GND16" gate="1" pin="GND"/>
 <wire x1="226.06" y1="134.62" x2="218.44" y2="134.62" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="RAMP" gate="G$1" pin="RING"/>
+<pinref part="GND17" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$8" class="0">
