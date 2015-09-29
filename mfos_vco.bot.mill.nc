@@ -2,9 +2,9 @@
 (Copyright 2005 - 2012 by John Johnson)
 (See readme.txt for licensing terms.)
 (This file generated from the board:)
-(.../eurorack/MFOS_VCO/mfos_vco.brd)
+(.../MFOS_VCO_Ramp_Core/mfos_vco.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 9/11/15 12:49 AM)
+(This file generated 9/28/15 9:59 PM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 15000.0000)
@@ -31,26 +31,22 @@ G00 X0.0000  Y0.0000
 M03
 G04 P0.000000
 G00 Z0.0500  
-G00 X-0.2200 Y1.3500  
+G00 X-0.6200 Y0.8500  
 G01 Z-0.0630 F5     
-G01 X-0.0300 Y1.5500  F10    
-G01 X-0.0300 Y2.6800  
-G01 X-0.4500 Y3.1900  
-G01 X-0.4600 Y3.1900  
+G01 X-0.1100 Y1.3600  F10    
+G01 X-0.1100 Y1.3700  
 G00 Z0.0500  
-G00 X-0.4600 Y3.2000  
+G00 X-0.1300 Y1.3300  
 G01 Z-0.0630 F5     
-G01 X-0.4700 Y3.2100  F10    
-G01 X-3.9000 Y3.2100  
-G01 X-3.9000 Y2.3000  
-G01 X-3.7900 Y2.1900  
-G01 X-3.7900 Y1.0300  
-G01 X-3.6600 Y0.9300  
-G01 X-2.0800 Y0.9300  
-G01 X-1.7900 Y1.2600  
-G01 X-1.2700 Y1.2600  
-G01 X-1.1900 Y1.3300  
-G01 X-0.2200 Y1.3500  
+G01 X-0.1300 Y2.7900  F10    
+G01 X-0.5200 Y3.1800  
+G01 X-3.7700 Y3.1800  
+G01 X-3.9300 Y3.0200  
+G01 X-3.9300 Y1.2100  
+G01 X-3.5100 Y0.7900  
+G01 X-1.8200 Y0.7900  
+G01 X-1.7600 Y0.8500  
+G01 X-0.6200 Y0.8500  
 G00 Z1.0000  
 M05
 M02
