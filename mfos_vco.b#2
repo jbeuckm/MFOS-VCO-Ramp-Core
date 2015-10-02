@@ -130,6 +130,17 @@
 <wire x1="100" y1="0" x2="100" y2="80" width="0" layer="20"/>
 <wire x1="100" y1="80" x2="0" y2="80" width="0" layer="20"/>
 <wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="2.794" y1="34.798" x2="2.794" y2="34.544" width="1.778" layer="46"/>
+<wire x1="2.794" y1="34.544" x2="15.748" y2="21.59" width="1.778" layer="46"/>
+<wire x1="15.748" y1="21.59" x2="44.704" y2="21.59" width="1.778" layer="46"/>
+<wire x1="44.704" y1="21.59" x2="46.228" y2="20.066" width="1.778" layer="46"/>
+<wire x1="46.228" y1="20.066" x2="89.154" y2="20.066" width="1.778" layer="46"/>
+<wire x1="89.154" y1="20.066" x2="99.822" y2="30.734" width="1.778" layer="46"/>
+<wire x1="99.822" y1="30.734" x2="99.822" y2="76.708" width="1.778" layer="46"/>
+<wire x1="99.822" y1="76.708" x2="95.758" y2="80.772" width="1.778" layer="46"/>
+<wire x1="95.758" y1="80.772" x2="13.208" y2="80.772" width="1.778" layer="46"/>
+<wire x1="13.208" y1="80.772" x2="3.302" y2="70.866" width="1.778" layer="46"/>
+<wire x1="3.302" y1="70.866" x2="3.302" y2="33.782" width="1.778" layer="46"/>
 </plain>
 <libraries>
 <library name="rcl">
@@ -1917,7 +1928,7 @@ design rules under a new name.</description>
 <element name="R6" library="rcl" package="0207/7" value="10k" x="36.576" y="70.104" rot="R90"/>
 <element name="R7" library="rcl" package="0207/7" value="1M" x="43.18" y="70.104" rot="R180"/>
 <element name="R8" library="rcl" package="0207/7" value="100k" x="28.575" y="69.85"/>
-<element name="SYNC" library="erthenvar" package="ERTHENVAR-JACK-90DEG" value="AUDIO-JACK" x="74.93" y="80.01"/>
+<element name="SYNC" library="erthenvar" package="ERTHENVAR-JACK-90DEG" value="AUDIO-JACK" x="74.93" y="76.38"/>
 <element name="TEMPCO" library="rcl" package="0207/2V" value="2k" x="50.165" y="61.468" rot="R180"/>
 <element name="U1" library="eurorack" package="POWER_16" value="POWER" x="10.16" y="43.18" rot="R90"/>
 <element name="U2" library="Fairchild_By_element14_Batch_1" package="TO127P254X732-3" value="2N5457" x="59.055" y="50.8" rot="R90">
@@ -2185,12 +2196,12 @@ design rules under a new name.</description>
 <wire x1="79.375" y1="78.74" x2="80.01" y2="78.105" width="0.6096" layer="16"/>
 <wire x1="66.675" y1="78.74" x2="73.152" y2="78.74" width="0.6096" layer="16"/>
 <wire x1="73.152" y1="78.74" x2="79.375" y2="78.74" width="0.6096" layer="16"/>
-<wire x1="80.01" y1="78.105" x2="79.93" y2="77.51" width="0.6096" layer="16"/>
+<wire x1="80.01" y1="78.105" x2="79.93" y2="73.88" width="0.6096" layer="16"/>
 <wire x1="66.675" y1="78.74" x2="67.23" y2="77.51" width="0.6096" layer="16"/>
 <wire x1="92.075" y1="78.74" x2="92.71" y2="78.105" width="0.6096" layer="16"/>
 <wire x1="79.375" y1="78.74" x2="92.075" y2="78.74" width="0.6096" layer="16"/>
 <wire x1="92.71" y1="78.105" x2="92.63" y2="77.51" width="0.6096" layer="16"/>
-<wire x1="79.375" y1="78.74" x2="79.93" y2="77.51" width="0.6096" layer="16"/>
+<wire x1="79.375" y1="78.74" x2="79.93" y2="73.88" width="0.6096" layer="16"/>
 <wire x1="83.82" y1="49.784" x2="83.312" y2="48.895" width="0.6096" layer="16"/>
 <wire x1="85.598" y1="52.578" x2="83.82" y2="49.784" width="0.6096" layer="16"/>
 <wire x1="85.598" y1="54.102" x2="85.598" y2="52.578" width="0.6096" layer="16"/>
@@ -2467,7 +2478,7 @@ design rules under a new name.</description>
 <wire x1="79.375" y1="61.595" x2="77.47" y2="61.595" width="0.6096" layer="16"/>
 <wire x1="77.47" y1="57.785" x2="77.089" y2="57.277" width="0.6096" layer="16"/>
 <wire x1="79.375" y1="61.595" x2="79.375" y2="63.755" width="0.6096" layer="16"/>
-<wire x1="79.375" y1="63.755" x2="79.93" y2="64.31" width="0.6096" layer="16"/>
+<wire x1="79.375" y1="63.755" x2="79.93" y2="60.68" width="0.6096" layer="16"/>
 </signal>
 <signal name="N$26">
 <contactref element="IC2" pad="6"/>

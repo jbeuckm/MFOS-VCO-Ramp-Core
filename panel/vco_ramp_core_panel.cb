@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="vco_ramp_core_panel">
+  <layers>
+    <layer name="0" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="mfos_vco_VI_panel_2" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="holes" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="text" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <spline id="2" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>34.373507,125.190118</p>
+            <p>34.373706,125.104257</p>
+            <p>34.323433,125.024841</p>
+            <p>34.241673,124.981859</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="3" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>34.241673,124.981859</p>
+            <p>34.159913,124.938876</p>
+            <p>34.059123,124.938876</p>
+            <p>33.977362,124.981859</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="4" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>33.977362,124.981859</p>
+            <p>33.895602,125.024841</p>
+            <p>33.84533,125.104257</p>
+            <p>33.845528,125.190118</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="5" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>33.845528,125.190118</p>
+            <p>33.84533,125.275978</p>
+            <p>33.895602,125.355394</p>
+            <p>33.977362,125.398376</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="6" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>33.977362,125.398376</p>
+            <p>34.059123,125.441359</p>
+            <p>34.159913,125.441359</p>
+            <p>34.241673,125.398376</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="7" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>34.241673,125.398376</p>
+            <p>34.323433,125.355394</p>
+            <p>34.373706,125.275978</p>
+            <p>34.373507,125.190118</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="8">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>15.496609,0.250922000000003,0</p>
+            <p>0.0203,0.250922000000003,0</p>
+            <p>0.0203,128.407687,0</p>
+            <p>42.873026,128.407687,0</p>
+            <p>42.873026,0.250922000000003,0</p>
+            <p>0.0203,0.250922000000003,0</p>
+          </pts>
+        </pline>
+        <pline id="9" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>34.373507,273.190118,0</p>
+          </pts>
+        </pline>
+        <pline id="10">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>16.271265,63.322777,0</p>
+          </pts>
+        </pline>
+        <pline id="11">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>12.529371,67.242872,0</p>
+          </pts>
+        </pline>
+        <pline id="12">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>11.638447,72.410248,0</p>
+          </pts>
+        </pline>
+        <pline id="13">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>13.776669,77.221262,0</p>
+          </pts>
+        </pline>
+        <pline id="14">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>18.231304,80.072214,0</p>
+          </pts>
+        </pline>
+        <pline id="15">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>23.220494,80.072214,0</p>
+          </pts>
+        </pline>
+        <pline id="16">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>27.675129,77.221262,0</p>
+          </pts>
+        </pline>
+        <pline id="17">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>29.813354,72.410248,0</p>
+          </pts>
+        </pline>
+        <pline id="18">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.922427,67.242872,0</p>
+          </pts>
+        </pline>
+        <pline id="19">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>25.358719,63.322777,0</p>
+          </pts>
+        </pline>
+        <pline id="20">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>16.805823,64.391891,0</p>
+          </pts>
+        </pline>
+        <pline id="21">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>15.736708,64.926448,0</p>
+          </pts>
+        </pline>
+        <pline id="22">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>14.845781,65.817396,0</p>
+          </pts>
+        </pline>
+        <pline id="23">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>14.13304,66.708315,0</p>
+          </pts>
+        </pline>
+        <pline id="24">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>13.420299,67.777429,0</p>
+          </pts>
+        </pline>
+        <pline id="25">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>13.063928,68.846543,0</p>
+          </pts>
+        </pline>
+        <pline id="26">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>12.707558,70.093824,0</p>
+          </pts>
+        </pline>
+        <pline id="27">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>12.707558,71.162939,0</p>
+          </pts>
+        </pline>
+        <pline id="28">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>12.707558,72.232053,0</p>
+          </pts>
+        </pline>
+        <pline id="29">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>12.885742,73.301167,0</p>
+          </pts>
+        </pline>
+        <pline id="30">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>13.242115,74.548476,0</p>
+          </pts>
+        </pline>
+        <pline id="31">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>13.776669,75.617591,0</p>
+          </pts>
+        </pline>
+        <pline id="32">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>14.48941,76.50851,0</p>
+          </pts>
+        </pline>
+        <pline id="33">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>15.380338,77.399429,0</p>
+          </pts>
+        </pline>
+        <pline id="34">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>16.271265,78.112181,0</p>
+          </pts>
+        </pline>
+        <pline id="35">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>17.340377,78.646738,0</p>
+          </pts>
+        </pline>
+        <pline id="36">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>18.409491,79.181295,0</p>
+          </pts>
+        </pline>
+        <pline id="37">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>19.656786,79.359462,0</p>
+          </pts>
+        </pline>
+        <pline id="38">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>20.7259,79.537657,0</p>
+          </pts>
+        </pline>
+        <pline id="39">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>21.795012,79.359462,0</p>
+          </pts>
+        </pline>
+        <pline id="40">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>23.04231,79.181295,0</p>
+          </pts>
+        </pline>
+        <pline id="41">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>24.111421,78.646738,0</p>
+          </pts>
+        </pline>
+        <pline id="42">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>25.180533,78.112181,0</p>
+          </pts>
+        </pline>
+        <pline id="43">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>26.07146,77.399429,0</p>
+          </pts>
+        </pline>
+        <pline id="44">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>26.962388,76.50851,0</p>
+          </pts>
+        </pline>
+        <pline id="45">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>27.675129,75.617591,0</p>
+          </pts>
+        </pline>
+        <pline id="46">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.209686,74.548476,0</p>
+          </pts>
+        </pline>
+        <pline id="47">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.566056,73.301167,0</p>
+          </pts>
+        </pline>
+        <pline id="48">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.744243,72.232053,0</p>
+          </pts>
+        </pline>
+        <pline id="49">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.744243,71.162939,0</p>
+          </pts>
+        </pline>
+        <pline id="50">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.744243,70.093824,0</p>
+          </pts>
+        </pline>
+        <pline id="51">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.38787,68.846543,0</p>
+          </pts>
+        </pline>
+        <pline id="52">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>28.031499,67.777429,0</p>
+          </pts>
+        </pline>
+        <pline id="53">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>27.318758,66.708315,0</p>
+          </pts>
+        </pline>
+        <pline id="54">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>26.606017,65.817396,0</p>
+          </pts>
+        </pline>
+        <pline id="55">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>25.71509,64.926448,0</p>
+          </pts>
+        </pline>
+        <spline id="56" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>18.053118,71.341134</p>
+            <p>18.053118,72.944805</p>
+            <p>19.122232,74.013919</p>
+            <p>20.7259,74.013919</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="57" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.7259,74.013919</p>
+            <p>22.329569,74.013919</p>
+            <p>23.39868,72.944805</p>
+            <p>23.39868,71.341134</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="58" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>23.39868,71.341134</p>
+            <p>23.39868,69.737462</p>
+            <p>22.329569,68.668348</p>
+            <p>20.7259,68.668348</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="59" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.7259,68.668348</p>
+            <p>19.122232,68.668348</p>
+            <p>18.053118,69.737462</p>
+            <p>18.053118,71.341134</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="60">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,71.341134,0</p>
+            <p>24.824162,64.391891,0</p>
+          </pts>
+        </pline>
+        <pline id="61">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>19.656786,71.341134,0</p>
+            <p>21.795012,71.341134,0</p>
+          </pts>
+        </pline>
+        <spline id="62" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.937784,71.286815</p>
+            <p>20.937784,71.167526</p>
+            <p>20.830338,71.070823</p>
+            <p>20.697793,71.070823</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="63" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.697793,71.070823</p>
+            <p>20.565251,71.070823</p>
+            <p>20.457801,71.167526</p>
+            <p>20.457801,71.286815</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="64" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.457801,71.286815</p>
+            <p>20.457801,71.406104</p>
+            <p>20.565251,71.502807</p>
+            <p>20.697793,71.502807</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="65" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.697793,71.502807</p>
+            <p>20.830338,71.502807</p>
+            <p>20.937784,71.406104</p>
+            <p>20.937784,71.286815</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="66">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,70.27202,0</p>
+            <p>20.7259,72.410248,0</p>
+          </pts>
+        </pline>
+        <spline id="67" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.925511,3.874785</p>
+            <p>8.925511,3.81476599999999</p>
+            <p>8.884343,3.75930700000001</p>
+            <p>8.817515,3.729298</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="68" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.817515,3.729298</p>
+            <p>8.750687,3.69928899999999</p>
+            <p>8.668351,3.69928899999999</p>
+            <p>8.601523,3.729298</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="69" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.601523,3.729298</p>
+            <p>8.534695,3.75930700000001</p>
+            <p>8.493528,3.81476599999999</p>
+            <p>8.493528,3.874785</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="70" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.493528,3.874785</p>
+            <p>8.493528,3.93480299999999</p>
+            <p>8.534696,3.990262</p>
+            <p>8.601524,4.02027100000001</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="71" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.601524,4.02027100000001</p>
+            <p>8.668352,4.05028100000001</p>
+            <p>8.750687,4.05028100000001</p>
+            <p>8.817515,4.02027100000001</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="72" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>8.817515,4.02027100000001</p>
+            <p>8.884343,3.990262</p>
+            <p>8.925511,3.93480299999999</p>
+            <p>8.925511,3.874785</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="73" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.937784,219.286815,0</p>
+          </pts>
+        </pline>
+        <pline id="74" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>8.925511,151.874785,0</p>
+          </pts>
+        </pline>
+        <pline id="75">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>16.271265,82.533266,0</p>
+          </pts>
+        </pline>
+        <pline id="76">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>12.529371,86.45336,0</p>
+          </pts>
+        </pline>
+        <pline id="77">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>11.638446,91.620736,0</p>
+          </pts>
+        </pline>
+        <pline id="78">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>13.776669,96.43175,0</p>
+          </pts>
+        </pline>
+        <pline id="79">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>18.231304,99.282703,0</p>
+          </pts>
+        </pline>
+        <pline id="80">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>23.220493,99.282703,0</p>
+          </pts>
+        </pline>
+        <pline id="81">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>27.675128,96.43175,0</p>
+          </pts>
+        </pline>
+        <pline id="82">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>29.813354,91.620736,0</p>
+          </pts>
+        </pline>
+        <pline id="83">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.922426,86.45336,0</p>
+          </pts>
+        </pline>
+        <pline id="84">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>25.358719,82.533266,0</p>
+          </pts>
+        </pline>
+        <pline id="85">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>16.805822,83.60238,0</p>
+          </pts>
+        </pline>
+        <pline id="86">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>15.736708,84.136937,0</p>
+          </pts>
+        </pline>
+        <pline id="87">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>14.84578,85.027884,0</p>
+          </pts>
+        </pline>
+        <pline id="88">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>14.133039,85.918803,0</p>
+          </pts>
+        </pline>
+        <pline id="89">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>13.420298,86.987918,0</p>
+          </pts>
+        </pline>
+        <pline id="90">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>13.063928,88.057032,0</p>
+          </pts>
+        </pline>
+        <pline id="91">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>12.707557,89.304313,0</p>
+          </pts>
+        </pline>
+        <pline id="92">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>12.707557,90.373427,0</p>
+          </pts>
+        </pline>
+        <pline id="93">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>12.707557,91.442541,0</p>
+          </pts>
+        </pline>
+        <pline id="94">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>12.885741,92.511656,0</p>
+          </pts>
+        </pline>
+        <pline id="95">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>13.242114,93.758965,0</p>
+          </pts>
+        </pline>
+        <pline id="96">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>13.776669,94.828079,0</p>
+          </pts>
+        </pline>
+        <pline id="97">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>14.48941,95.718998,0</p>
+          </pts>
+        </pline>
+        <pline id="98">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>15.380337,96.609917,0</p>
+          </pts>
+        </pline>
+        <pline id="99">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>16.271265,97.32267,0</p>
+          </pts>
+        </pline>
+        <pline id="100">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>17.340376,97.857227,0</p>
+          </pts>
+        </pline>
+        <pline id="101">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>18.40949,98.391784,0</p>
+          </pts>
+        </pline>
+        <pline id="102">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>19.656786,98.569951,0</p>
+          </pts>
+        </pline>
+        <pline id="103">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>20.7259,98.748146,0</p>
+          </pts>
+        </pline>
+        <pline id="104">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>21.795011,98.569951,0</p>
+          </pts>
+        </pline>
+        <pline id="105">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>23.042309,98.391784,0</p>
+          </pts>
+        </pline>
+        <pline id="106">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>24.111421,97.857227,0</p>
+          </pts>
+        </pline>
+        <pline id="107">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>25.180532,97.32267,0</p>
+          </pts>
+        </pline>
+        <pline id="108">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>26.07146,96.609917,0</p>
+          </pts>
+        </pline>
+        <pline id="109">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>26.962387,95.718998,0</p>
+          </pts>
+        </pline>
+        <pline id="110">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>27.675128,94.828079,0</p>
+          </pts>
+        </pline>
+        <pline id="111">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.209685,93.758965,0</p>
+          </pts>
+        </pline>
+        <pline id="112">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.566056,92.511656,0</p>
+          </pts>
+        </pline>
+        <pline id="113">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.744242,91.442541,0</p>
+          </pts>
+        </pline>
+        <pline id="114">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.744242,90.373427,0</p>
+          </pts>
+        </pline>
+        <pline id="115">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.744242,89.304313,0</p>
+          </pts>
+        </pline>
+        <pline id="116">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.387869,88.057032,0</p>
+          </pts>
+        </pline>
+        <pline id="117">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>28.031499,86.987918,0</p>
+          </pts>
+        </pline>
+        <pline id="118">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>27.318758,85.918803,0</p>
+          </pts>
+        </pline>
+        <pline id="119">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>26.606017,85.027884,0</p>
+          </pts>
+        </pline>
+        <pline id="120">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>25.715089,84.136937,0</p>
+          </pts>
+        </pline>
+        <spline id="121" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>18.053117,90.551622</p>
+            <p>18.053117,92.155294</p>
+            <p>19.122231,93.224408</p>
+            <p>20.7259,93.224408</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="122" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.7259,93.224408</p>
+            <p>22.329568,93.224408</p>
+            <p>23.39868,92.155294</p>
+            <p>23.39868,90.551622</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="123" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>23.39868,90.551622</p>
+            <p>23.39868,88.947951</p>
+            <p>22.329568,87.878837</p>
+            <p>20.7259,87.878837</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="124" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.7259,87.878837</p>
+            <p>19.122231,87.878837</p>
+            <p>18.053117,88.947951</p>
+            <p>18.053117,90.551622</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="125">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622,0</p>
+            <p>24.824162,83.60238,0</p>
+          </pts>
+        </pline>
+        <pline id="126">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>19.656786,90.551622,0</p>
+            <p>21.795011,90.551622,0</p>
+          </pts>
+        </pline>
+        <spline id="127" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.937784,90.497292</p>
+            <p>20.937784,90.378003</p>
+            <p>20.830337,90.281301</p>
+            <p>20.697792,90.281301</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="128" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.697792,90.281301</p>
+            <p>20.565251,90.281301</p>
+            <p>20.457801,90.378003</p>
+            <p>20.457801,90.497292</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="129" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.457801,90.497292</p>
+            <p>20.457801,90.616581</p>
+            <p>20.565251,90.713284</p>
+            <p>20.697792,90.713284</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="130" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>20.697792,90.713284</p>
+            <p>20.830337,90.713284</p>
+            <p>20.937784,90.616581</p>
+            <p>20.937784,90.497292</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="131">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,89.482508,0</p>
+            <p>20.7259,91.620736,0</p>
+          </pts>
+        </pline>
+        <spline id="132" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>9.920963,106.541159</p>
+            <p>9.920963,108.312104</p>
+            <p>11.102063,109.492851</p>
+            <p>12.873008,109.492851</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="133" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,109.492851</p>
+            <p>14.645011,109.492851</p>
+            <p>15.8247,108.312104</p>
+            <p>15.8247,106.541159</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="134" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>15.8247,106.541159</p>
+            <p>15.8247,104.770568</p>
+            <p>14.645011,103.589468</p>
+            <p>12.873008,103.589468</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="135" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,103.589468</p>
+            <p>11.102063,103.589468</p>
+            <p>9.920963,104.770568</p>
+            <p>9.920963,106.541159</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="136" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.937784,238.497292,0</p>
+          </pts>
+        </pline>
+        <pline id="137">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>11.693319,106.541159,0</p>
+            <p>14.053755,106.541159,0</p>
+          </pts>
+        </pline>
+        <spline id="138" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>9.920963,55.653834</p>
+            <p>9.920963,57.424779</p>
+            <p>11.102063,58.605526</p>
+            <p>12.873008,58.605526</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="139" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,58.605526</p>
+            <p>14.645011,58.605526</p>
+            <p>15.8247,57.424779</p>
+            <p>15.8247,55.653834</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="140" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>15.8247,55.653834</p>
+            <p>15.8247,53.883242</p>
+            <p>14.645011,52.702142</p>
+            <p>12.873008,52.702142</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="141" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,52.702142</p>
+            <p>11.102063,52.702142</p>
+            <p>9.920963,53.883242</p>
+            <p>9.920963,55.653834</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="142">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>12.873008,105.360412,0</p>
+            <p>12.873008,107.722259,0</p>
+          </pts>
+        </pline>
+        <pline id="143">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>11.693319,55.653834,0</p>
+            <p>14.053755,55.653834,0</p>
+          </pts>
+        </pline>
+        <spline id="144" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>9.971763,30.345556</p>
+            <p>9.971763,32.116501</p>
+            <p>11.152863,33.297248</p>
+            <p>12.923808,33.297248</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="145" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.923808,33.297248</p>
+            <p>14.695811,33.297248</p>
+            <p>15.8755,32.116501</p>
+            <p>15.8755,30.345556</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="146" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>15.8755,30.345556</p>
+            <p>15.8755,28.574965</p>
+            <p>14.695811,27.393865</p>
+            <p>12.923808,27.393865</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="147" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.923808,27.393865</p>
+            <p>11.152863,27.393865</p>
+            <p>9.971763,28.574965</p>
+            <p>9.971763,30.345556</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="148">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>12.873008,54.473087,0</p>
+            <p>12.873008,56.834934,0</p>
+          </pts>
+        </pline>
+        <pline id="149">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>11.744119,30.345556,0</p>
+            <p>14.104555,30.345556,0</p>
+          </pts>
+        </pline>
+        <spline id="150" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>9.920963,42.968679</p>
+            <p>9.920963,44.739623</p>
+            <p>11.102063,45.920371</p>
+            <p>12.873008,45.920371</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="151" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,45.920371</p>
+            <p>14.645011,45.920371</p>
+            <p>15.8247,44.739623</p>
+            <p>15.8247,42.968679</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="152" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>15.8247,42.968679</p>
+            <p>15.8247,41.198087</p>
+            <p>14.645011,40.016987</p>
+            <p>12.873008,40.016987</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="153" deg="3" flags="8" ktol="0" cptol="0" ftol="0">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.873008,40.016987</p>
+            <p>11.102063,40.016987</p>
+            <p>9.920963,41.198087</p>
+            <p>9.920963,42.968679</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <pline id="154">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>12.923808,29.164809,0</p>
+            <p>12.923808,31.526656,0</p>
+          </pts>
+        </pline>
+        <pline id="155">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>11.693319,42.968679,0</p>
+            <p>14.053755,42.968679,0</p>
+          </pts>
+        </pline>
+        <pline id="156">
+          <ModificationCount>41</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>12.873008,41.787932,0</p>
+            <p>12.873008,44.149779,0</p>
+          </pts>
+        </pline>
+        <points id="157">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20.7259,90.551622</p>
+            <p>20.7259,71.341134</p>
+            <p>12.8741011168991,106.537553489367</p>
+            <p>34.1178761061992,125.180150019217</p>
+            <p>12.8404078326118,55.6417164986115</p>
+            <p>12.8833647486164,42.9264693612356</p>
+            <p>12.9263216646211,30.3400929718736</p>
+            <p>8.70201756257163,3.87511441690733</p>
+          </pts>
+        </points>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>text</ActiveLayer>
+</CADFile>
