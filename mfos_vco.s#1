@@ -15319,21 +15319,21 @@ at 27/07/2012 14:48:47</description>
 <wire x1="4.4" y1="-2.5" x2="5.6" y2="-2.5" width="1.016" layer="46"/>
 <wire x1="4.4" y1="-15.7" x2="5.6" y2="-15.7" width="1.016" layer="46"/>
 <wire x1="-0.2" y1="-14.1" x2="-0.2" y2="-12.9" width="1.016" layer="46"/>
-<pad name="P$2" x="-0.2" y="-13.5" drill="0.8" diameter="2.54" shape="long" rot="R90"/>
-<pad name="P$3" x="5" y="-15.7" drill="0.8" diameter="2.54" shape="long" rot="R180"/>
-<pad name="P$1" x="5" y="-2.5" drill="0.8" diameter="2.54" shape="long" rot="R180"/>
+<pad name="P$2" x="-0.2" y="-13.5" drill="1.3" diameter="2.54" shape="long" rot="R90"/>
+<pad name="P$3" x="5" y="-15.7" drill="1.3" diameter="2.54" shape="long" rot="R180"/>
+<pad name="P$1" x="5" y="-2.5" drill="1.3" diameter="2.54" shape="long" rot="R180"/>
 <polygon width="0.127" layer="45">
 <vertex x="2" y="3.5"/>
 <vertex x="8" y="3.5"/>
 <vertex x="8" y="0"/>
 <vertex x="2" y="0"/>
 </polygon>
-<hole x="5.588" y="-2.4892" drill="0.8"/>
-<hole x="4.3942" y="-2.4892" drill="0.8"/>
-<hole x="-0.2032" y="-12.9032" drill="0.8"/>
-<hole x="-0.2032" y="-14.097" drill="0.8"/>
-<hole x="5.588" y="-15.6972" drill="0.8"/>
-<hole x="4.4196" y="-15.6972" drill="0.8"/>
+<hole x="5.842" y="-2.4892" drill="1.3"/>
+<hole x="4.1402" y="-2.4892" drill="1.3"/>
+<hole x="-0.2032" y="-12.6492" drill="1.3"/>
+<hole x="-0.2032" y="-14.351" drill="1.3"/>
+<hole x="5.842" y="-15.6972" drill="1.3"/>
+<hole x="4.1656" y="-15.6972" drill="1.3"/>
 </package>
 </packages>
 <symbols>
@@ -15953,7 +15953,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C1" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
-<part name="TEMPCO" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
+<part name="TEMPCO" library="rcl" deviceset="R-US_" device="0309/12" value="2k"/>
 <part name="HIGH_FREQ_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
 <part name="R15" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
@@ -16002,7 +16002,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="IC3" library="linear" deviceset="TL072" device="P"/>
 <part name="R9" library="pot" deviceset="TRIM_US-" device="B64Y" value="10k"/>
-<part name="R27" library="rcl" deviceset="R-US_" device="0309/12" value="100k"/>
+<part name="R27" library="rcl" deviceset="R-US_" device="0309/10" value="100k"/>
 <part name="P+8" library="supply1" deviceset="+12V" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="C10" library="rcl" deviceset="C-US" device="050-024X044" value="0.1uF"/>

@@ -15953,7 +15953,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C1" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
-<part name="TEMPCO" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
+<part name="TEMPCO" library="rcl" deviceset="R-US_" device="0309/12" value="2k"/>
 <part name="HIGH_FREQ_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
 <part name="R15" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
@@ -15981,7 +15981,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="C5" library="rcl" deviceset="C-US" device="050-024X044" value="0.1uF"/>
 <part name="P+6" library="supply1" deviceset="+12V" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="R24" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
+<part name="R24" library="rcl" deviceset="R-US_" device="0207/5V" value="100k"/>
 <part name="R25" library="rcl" deviceset="R-US_" device="0207/7" value="18k"/>
 <part name="P-5" library="supply1" deviceset="-12V" device=""/>
 <part name="D2" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
@@ -16002,7 +16002,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="IC3" library="linear" deviceset="TL072" device="P"/>
 <part name="R9" library="pot" deviceset="TRIM_US-" device="B64Y" value="10k"/>
-<part name="R27" library="rcl" deviceset="R-US_" device="0309/12" value="100k"/>
+<part name="R27" library="rcl" deviceset="R-US_" device="0309/10" value="100k"/>
 <part name="P+8" library="supply1" deviceset="+12V" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="C10" library="rcl" deviceset="C-US" device="050-024X044" value="0.1uF"/>
