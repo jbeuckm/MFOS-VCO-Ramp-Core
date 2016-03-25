@@ -15616,12 +15616,9 @@ Digikey #P9821BK-ND</description>
 <part name="R11" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="IC1" library="linear" deviceset="TL072" device="P"/>
 <part name="SCALE_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100R"/>
-<part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="R20" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="R14" library="rcl" deviceset="R-US_" device="0207/7" value="475"/>
-<part name="P-3" library="supply1" deviceset="-12V" device=""/>
-<part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C5" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
 <part name="R12-TEMPCO" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
 <part name="HIGH_FREQ_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
@@ -15699,6 +15696,9 @@ Digikey #P9821BK-ND</description>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
+<part name="GND4" library="supply1" deviceset="GND" device=""/>
+<part name="P-3" library="supply1" deviceset="-12V" device=""/>
+<part name="P+3" library="supply1" deviceset="+12V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -15721,13 +15721,10 @@ Digikey #P9821BK-ND</description>
 <instance part="IC1" gate="A" x="83.82" y="71.12"/>
 <instance part="IC1" gate="B" x="152.4" y="55.88"/>
 <instance part="SCALE_TRIM" gate="G$1" x="101.6" y="63.5"/>
-<instance part="GND4" gate="1" x="71.12" y="71.12"/>
 <instance part="GND6" gate="1" x="101.6" y="33.02"/>
 <instance part="R20" gate="G$1" x="147.32" y="71.12"/>
 <instance part="R14" gate="G$1" x="101.6" y="45.72" rot="R90"/>
 <instance part="IC1" gate="P" x="83.82" y="71.12"/>
-<instance part="P-3" gate="1" x="83.82" y="58.42"/>
-<instance part="P+3" gate="1" x="83.82" y="83.82"/>
 <instance part="C5" gate="G$1" x="83.82" y="50.8" rot="R90"/>
 <instance part="R12-TEMPCO" gate="G$1" x="83.82" y="38.1"/>
 <instance part="HIGH_FREQ_TRIM" gate="G$1" x="144.78" y="86.36" rot="R90"/>
@@ -15815,6 +15812,9 @@ Digikey #P9821BK-ND</description>
 <instance part="GND3" gate="1" x="48.26" y="10.16"/>
 <instance part="GND8" gate="1" x="142.24" y="48.26"/>
 <instance part="GND2" gate="1" x="43.18" y="124.46"/>
+<instance part="GND4" gate="1" x="71.12" y="71.12"/>
+<instance part="P-3" gate="1" x="83.82" y="58.42"/>
+<instance part="P+3" gate="1" x="83.82" y="83.82"/>
 </instances>
 <busses>
 </busses>
@@ -15859,12 +15859,6 @@ Digikey #P9821BK-ND</description>
 <junction x="17.78" y="83.82"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="P" pin="V-"/>
-<pinref part="P-3" gate="1" pin="-12V"/>
-<wire x1="83.82" y1="60.96" x2="83.82" y2="63.5" width="0.1524" layer="91"/>
-<wire x1="83.82" y1="60.96" x2="83.82" y2="63.5" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="IC3" gate="P" pin="V-"/>
 <pinref part="P-4" gate="1" pin="-12V"/>
 <wire x1="185.42" y1="17.78" x2="185.42" y2="20.32" width="0.1524" layer="91"/>
@@ -15898,6 +15892,11 @@ Digikey #P9821BK-ND</description>
 <wire x1="33.02" y1="119.38" x2="33.02" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="116.84" x2="25.4" y2="116.84" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="IC1" gate="P" pin="V-"/>
+<wire x1="83.82" y1="60.96" x2="83.82" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="P-3" gate="1" pin="-12V"/>
+</segment>
 </net>
 <net name="+12V" class="0">
 <segment>
@@ -15909,11 +15908,6 @@ Digikey #P9821BK-ND</description>
 <wire x1="68.58" y1="99.06" x2="68.58" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="99.06" x2="68.58" y2="99.06" width="0.1524" layer="91"/>
 <junction x="68.58" y="99.06"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="P" pin="V+"/>
-<pinref part="P+3" gate="1" pin="+12V"/>
-<wire x1="83.82" y1="81.28" x2="83.82" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R19" gate="G$1" pin="2"/>
@@ -15963,6 +15957,11 @@ Digikey #P9821BK-ND</description>
 <wire x1="33.02" y1="139.7" x2="33.02" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="142.24" x2="25.4" y2="142.24" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="IC1" gate="P" pin="V+"/>
+<wire x1="83.82" y1="81.28" x2="83.82" y2="78.74" width="0.1524" layer="91"/>
+<pinref part="P+3" gate="1" pin="+12V"/>
+</segment>
 </net>
 <net name="N$5" class="0">
 <segment>
@@ -15992,13 +15991,6 @@ Digikey #P9821BK-ND</description>
 <pinref part="GND6" gate="1" pin="GND"/>
 <pinref part="R14" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="40.64" x2="101.6" y2="35.56" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="A" pin="+IN"/>
-<pinref part="GND4" gate="1" pin="GND"/>
-<wire x1="71.12" y1="73.66" x2="76.2" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="73.66" x2="76.2" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="73.66" x2="76.2" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R15" gate="G$1" pin="1"/>
@@ -16107,6 +16099,11 @@ Digikey #P9821BK-ND</description>
 <pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="33.02" y1="127" x2="33.02" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="IC1" gate="A" pin="+IN"/>
+<wire x1="71.12" y1="73.66" x2="76.2" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="GND4" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$8" class="0">

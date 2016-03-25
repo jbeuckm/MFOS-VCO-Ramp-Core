@@ -15623,7 +15623,7 @@ Digikey #P9821BK-ND</description>
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C5" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
-<part name="R12" library="rcl" deviceset="R-US_" device="0309/12" value="2k"/>
+<part name="R12" library="rcl" deviceset="R-US_" device="0207/7" value="2k"/>
 <part name="HIGH_FREQ_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
 <part name="R17" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
@@ -15659,7 +15659,7 @@ Digikey #P9821BK-ND</description>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="CV_IN" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="LIN_FM" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
-<part name="JCK3" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
+<part name="SYNC" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
@@ -15767,7 +15767,7 @@ Digikey #P9821BK-ND</description>
 <instance part="GND16" gate="1" x="233.68" y="-40.64" rot="MR0"/>
 <instance part="CV_IN" gate="G$1" x="27.94" y="40.64" rot="MR180"/>
 <instance part="LIN_FM" gate="G$1" x="91.44" y="15.24" rot="MR180"/>
-<instance part="JCK3" gate="G$1" x="190.5" y="86.36" rot="R180"/>
+<instance part="SYNC" gate="G$1" x="190.5" y="86.36" rot="R180"/>
 <instance part="GND1" gate="1" x="35.56" y="30.48"/>
 <instance part="GND12" gate="1" x="182.88" y="78.74"/>
 <instance part="GND5" gate="1" x="99.06" y="7.62"/>
@@ -16035,7 +16035,7 @@ Digikey #P9821BK-ND</description>
 <wire x1="35.56" y1="33.02" x2="35.56" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="JCK3" gate="G$1" pin="RING"/>
+<pinref part="SYNC" gate="G$1" pin="RING"/>
 <pinref part="GND12" gate="1" pin="GND"/>
 <wire x1="182.88" y1="81.28" x2="182.88" y2="83.82" width="0.1524" layer="91"/>
 </segment>
@@ -16308,7 +16308,7 @@ Digikey #P9821BK-ND</description>
 <junction x="187.96" y="68.58"/>
 <wire x1="187.96" y1="68.58" x2="175.26" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="175.26" y1="68.58" x2="175.26" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="JCK3" gate="G$1" pin="TIP"/>
+<pinref part="SYNC" gate="G$1" pin="TIP"/>
 <wire x1="175.26" y1="91.44" x2="182.88" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 </net>

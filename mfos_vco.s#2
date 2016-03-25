@@ -15623,7 +15623,7 @@ Digikey #P9821BK-ND</description>
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="C5" library="rcl" deviceset="C-US" device="050-024X044" value="100pF"/>
-<part name="R12" library="rcl" deviceset="R-US_" device="0207/7" value="2k"/>
+<part name="R12-TEMPCO" library="rcl" deviceset="R-US_" device="0207/7" value="2k"/>
 <part name="HIGH_FREQ_TRIM" library="pot" deviceset="TRIM_US-" device="B64Y" value="100k"/>
 <part name="R17" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="1N4148"/>
@@ -15641,7 +15641,7 @@ Digikey #P9821BK-ND</description>
 <part name="C8" library="rcl" deviceset="C-US" device="050-024X044" value=".005uF"/>
 <part name="U1" library="Fairchild_By_element14_Batch_1" deviceset="2N5457" device=""/>
 <part name="R30" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
-<part name="R31" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
+<part name="R31" library="rcl" deviceset="R-US_" device="0207/7" value="2k"/>
 <part name="R24" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="C9" library="rcl" deviceset="C-US" device="050-024X044" value=".001uF"/>
@@ -15729,7 +15729,7 @@ Digikey #P9821BK-ND</description>
 <instance part="P-3" gate="1" x="83.82" y="58.42"/>
 <instance part="P+3" gate="1" x="83.82" y="83.82"/>
 <instance part="C5" gate="G$1" x="83.82" y="50.8" rot="R90"/>
-<instance part="R12" gate="G$1" x="83.82" y="38.1"/>
+<instance part="R12-TEMPCO" gate="G$1" x="83.82" y="38.1"/>
 <instance part="HIGH_FREQ_TRIM" gate="G$1" x="144.78" y="86.36" rot="R90"/>
 <instance part="R17" gate="G$1" x="127" y="86.36"/>
 <instance part="D1" gate="G$1" x="116.84" y="86.36"/>
@@ -16126,7 +16126,7 @@ Digikey #P9821BK-ND</description>
 <pinref part="IC1" gate="A" pin="OUT"/>
 <pinref part="SCALE_TRIM" gate="G$1" pin="E"/>
 <wire x1="101.6" y1="71.12" x2="93.98" y2="71.12" width="0.1524" layer="91"/>
-<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R12-TEMPCO" gate="G$1" pin="2"/>
 <wire x1="93.98" y1="71.12" x2="91.44" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="38.1" x2="93.98" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="38.1" x2="93.98" y2="50.8" width="0.1524" layer="91"/>
@@ -16158,7 +16158,7 @@ Digikey #P9821BK-ND</description>
 <pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="81.28" y1="50.8" x2="66.04" y2="50.8" width="0.1524" layer="91"/>
 <junction x="66.04" y="50.8"/>
-<pinref part="R12" gate="G$1" pin="1"/>
+<pinref part="R12-TEMPCO" gate="G$1" pin="1"/>
 <wire x1="78.74" y1="38.1" x2="66.04" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>

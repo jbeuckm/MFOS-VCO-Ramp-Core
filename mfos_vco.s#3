@@ -15641,7 +15641,7 @@ Digikey #P9821BK-ND</description>
 <part name="C8" library="rcl" deviceset="C-US" device="050-024X044" value=".005uF"/>
 <part name="U1" library="Fairchild_By_element14_Batch_1" deviceset="2N5457" device=""/>
 <part name="R30" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
-<part name="R31" library="rcl" deviceset="R-US_" device="0207/7" value="2k"/>
+<part name="R31" library="rcl" deviceset="R-US_" device="0207/2V" value="2k"/>
 <part name="R24" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="C9" library="rcl" deviceset="C-US" device="050-024X044" value=".001uF"/>
